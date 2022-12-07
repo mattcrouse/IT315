@@ -20,6 +20,6 @@
 
     {"buildName":"Aegis ZS Gaming Desktop","buildDescription":"AMD Ryzen - R9-5900X - 16GB Memory - RX 6700XT - 1TB SSD ","pcBuilder":"MSI","tier":"High",
     "theme":"Black - RGB","price":"$1,999","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build6.png","website":"https://www.bestbuy.com/site/msi-aegis-zs-gaming-desktop-amd-ryzen-r9-5900x-16gb-memory-rx-6700xt-1tb-ssd-black/6489653.p?skuId=6489653"}
-    ],
-    "Status":"OK"
+  ],
+  "Status":"OK"
 }
