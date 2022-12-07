@@ -4,21 +4,21 @@
     {"buildName":"SYBER C CORE 100",
     "buildDescription":"Operating System: Windows 11 Home         Gaming Chassis: Syber C Series Mini-ITX Gaming Chassis w/ 7 color RGB LED, USB 3.0 (Black Color)        CPU: AMD Ryzen™ 5 5600G 3.9GHz [4.4GHz Turbo] 6C/12T 19MB L3 Cache 65W W/ Radeon Vega Graphics",
     "pcBuilder":"CyberPower","tier":"Low","theme":"Small Console","price":"$465","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build1.png",
-    "website":"https://www.cyberpowerpc.com/system/Syber-C-Core-100"}
+    "website":"https://www.cyberpowerpc.com/system/Syber-C-Core-100"},
 
     {"buildName":"VR READY DEAL RTX 3060","buildDescription":"Operating System: Windows 11 Home        Halloween Featured Promotions: None        Gaming Chassis: CyberpowerPC Eclipse P418X DRGB ATX Mid-Tower Gaming Case w/Tempered Glass (Black Color)        Laser Engraving: None        Extra Case Fans: Default case fans        CPU: Intel® Core™ Processor i5-12600KF 6P/12 + 4E 3.70GHz [Turbo 4.9GHz] 20MB Cache LGA1700 [w/o Integrated Graphic]",
-    "pcBuilder":"Cyberpower","tier":"Mid","theme":"Black","price":"$1,219","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build2.png","website":"https://www.cyberpowerpc.com/system/VR-Ready-Deal-RTX-3060"}
+    "pcBuilder":"Cyberpower","tier":"Mid","theme":"Black","price":"$1,219","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build2.png","website":"https://www.cyberpowerpc.com/system/VR-Ready-Deal-RTX-3060"},
 
     {"buildName":"AMD Ryzen 7000 Extreme Gaming","buildDescription":"NZXT H7 Tempered Glass Gaming Case - White        AMD Ryzen 9 7950X CPU        32GB DDR5-5200MHz RAM        1000 Watt - NZXT C1000 PSU        [PREORDER - Extra 1 Weeks Lead Time] GeForce RTX 4090 - 24GB        2TB Samsung 970 EVO PLUS M.2 NVMe SSD",
-    "pcBuilder":"iBuyPower","tier":"High","theme":"White","price":"$3,799","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build3.png","website":"https://www.ibuypower.com/store/amd-ryzen-7000-extreme-gaming-daily-deal"}
+    "pcBuilder":"iBuyPower","tier":"High","theme":"White","price":"$3,799","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build3.png","website":"https://www.ibuypower.com/store/amd-ryzen-7000-extreme-gaming-daily-deal"},
 
     {"buildName":"Gaming RDY SLHBR202","buildDescription":"Windows 11 Home, Intel Core i3-12100F CPU, B660 MB, Radeon RX 6500 XT 4GB GPU, 8GB DDR4-3200MHz RAM, 500GB M.2 NVMe SSD",
-    "pcBuilder":"iBuyPower","tier":"Mid","theme":"Black","price":"$849","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build4.png","website":"https://www.ibuypower.com/store/gaming-rdy-slhbr202"}
+    "pcBuilder":"iBuyPower","tier":"Mid","theme":"Black","price":"$849","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build4.png","website":"https://www.ibuypower.com/store/gaming-rdy-slhbr202"},
 
     {"buildName":"ASUS - ROG Gaming Desktop","buildDescription":"Intel Core i5-11400F - 16GB Memory - NVIDIA GeForce GTX 1660 Ti - 512GB SSD","pcBuilder":"Asus",
-    "tier":"Low","theme":"Bleck - RGB","price":"$699","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build5.png","website":"https://www.bestbuy.com/site/asus-rog-gaming-desktop-intel-core-i5-11400f-16gb-memory-nvidia-geforce-gtx-1660-ti-512gb-ssd/6501551.p?skuId=6501551"}
+    "tier":"Low","theme":"Bleck - RGB","price":"$699","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build5.png","website":"https://www.bestbuy.com/site/asus-rog-gaming-desktop-intel-core-i5-11400f-16gb-memory-nvidia-geforce-gtx-1660-ti-512gb-ssd/6501551.p?skuId=6501551"},
 
-    "buildName":"Aegis ZS Gaming Desktop","buildDescription":"AMD Ryzen - R9-5900X - 16GB Memory - RX 6700XT - 1TB SSD ","pcBuilder":"MSI","tier":"High",
+    {"buildName":"Aegis ZS Gaming Desktop","buildDescription":"AMD Ryzen - R9-5900X - 16GB Memory - RX 6700XT - 1TB SSD ","pcBuilder":"MSI","tier":"High",
     "theme":"Black - RGB","price":"$1,999","image":"https://raw.githubusercontent.com/mattcrouse/IT315/main/build6.png","website":"https://www.bestbuy.com/site/msi-aegis-zs-gaming-desktop-amd-ryzen-r9-5900x-16gb-memory-rx-6700xt-1tb-ssd-black/6489653.p?skuId=6489653"}
     ],
     "Status":"OK"
